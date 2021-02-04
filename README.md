@@ -15,9 +15,9 @@ directory = folder
 
 ## Linux commands = terminal commands
 
-1- pwd print working directory
-2- cd change directory
-3- ls list
-4- touch create file
-5- rm remove for files
-6- rm -r for directory remove
+- pwd print working directory
+- cd change directory
+- ls list
+- touch create file
+- rm remove for files
+- rm -r for directory remove
