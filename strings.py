@@ -51,3 +51,5 @@ phrase = 'hello world'
 #find 
 # print(phrase.find('l'))
 
+# print(phrase[1])
+
